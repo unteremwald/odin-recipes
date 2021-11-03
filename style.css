@@ -1,0 +1,29 @@
+/* style */
+
+.heading-color {
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+    text-transform: lowercase;
+}
+
+.sans-serif {
+    font-family: sans-serif;
+}
+
+.background-color {
+    background-color: lightgray;
+}
+
+.flammkuchen {
+    width: 300;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.text-highlight {
+    background-color: yellowgreen;
+}
